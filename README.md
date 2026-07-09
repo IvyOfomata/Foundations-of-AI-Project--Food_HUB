@@ -1,6 +1,5 @@
 # Foundations-of-AI-Project--Food_HUB
 An end-to-end Exploratory Data Analysis (EDA) project in Python using Pandas and Seaborn to optimize logistics, evaluate marketplace demand, and enhance customer experience patterns for a mobile food aggregator platform in New York.
-
 ## Workflow & Technical Approach
 1. **Data Cleaning & Preprocessing:** Handled missing values and standardized data types across ratings and delivery metrics.
 2. **Univariate Analysis:** Analyzed individual feature distributions (order costs, delivery times, rating frequencies).
